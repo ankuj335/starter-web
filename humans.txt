@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> ankuj kumar <role>  software developer <twitter>  ankujkumarit@gmail.com
 
 # THANKS
 
