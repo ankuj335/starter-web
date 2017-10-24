@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+Add comment before rebasing conflict
+
+<<<<<<< HEAD
+make some silly changes
+=======
+add data into bigtrouble problem after rebasing
+>>>>>>> After  in bigtrouble branch conflict of the rebasing
+-->
+<head>
+	<title>Welcome page master branch</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Yaa, Its working fine ne branches working in the 
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014@mobisoftInfotech Pvt Ltd</p>
+	</footer>
+</body>
+</html>
