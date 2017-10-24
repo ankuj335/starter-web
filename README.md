@@ -1,7 +1,9 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+#Introduction 
 
+##feature is so important to this approach
 
 ## Welcome to the readme file which is important
 ## Purpose
