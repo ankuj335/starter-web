@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <!--
 Add comment before rebasing conflict
+<<<<<<< HEAD
+
+make some silly changes
+=======
+hello
+
+add data into bigtrouble problem after rebasing
+>>>>>>> bigtrouble
 -->
 <head>
 	<title>Welcome page master branch</title>
@@ -17,7 +25,7 @@ Add comment before rebasing conflict
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Yaa, Its working fine 
+			Yaa, Its working fine ne branches working in the 
 		</p>
 	</main>
 	<footer class="container">
